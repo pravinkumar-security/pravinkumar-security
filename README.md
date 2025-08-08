@@ -16,7 +16,7 @@
 
 ## 📌 Featured Projects  
 
-### 1. [SOC Home Lab with Wazuh SIEM](https://github.com/yourusername/SOC-Home-Lab-Wazuh)
+### 1. <a href = "https://github.com/pravinkumar-security/SOC-Home-Lab-with-Wazuh-SIEM/tree/main"> SOC Home Lab with Wazuh SIEM </a>
 End-to-end SOC lab using Wazuh SIEM on Ubuntu server with Windows & Linux agents, File Integrity Monitoring, and VirusTotal API-based Active Response automation.  
 **Tech:** `Wazuh` `SIEM` `SOC` `Automation` `FIM`
 
