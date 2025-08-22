@@ -16,7 +16,12 @@
 
 ## 📌 Featured Projects  
 
-### 1. <a href = "https://github.com/pravinkumar-security/SOC-Home-Lab-with-Wazuh-SIEM/tree/main"> SOC Home Lab with Wazuh SIEM </a>
+### 1. <a href = "https://github.com/pravinkumar-security/SOAR-EDR-PROJECT"> SOAR-EDR PROJECT</a>
+
+
+
+
+### 2. <a href = "https://github.com/pravinkumar-security/SOC-Home-Lab-with-Wazuh-SIEM/tree/main"> SOC Home Lab with Wazuh SIEM </a>
 End-to-end SOC lab using Wazuh SIEM on Ubuntu server with Windows & Linux agents, File Integrity Monitoring, and VirusTotal API-based Active Response automation.  
 **Tech:** `Wazuh` `SIEM` `SOC` `Automation` `FIM`
 
