@@ -6,9 +6,11 @@
 ---
 
 ## 🛠 Skills & Tools  
-- **Cybersecurity:** SIEM, SOC Operations, Threat Detection, Incident Response  
-- **Tools & Platforms:** Wazuh SIEM, VirusTotal API, Ubuntu Server, Windows Server  
-- **Security Techniques:** File Integrity Monitoring, Active Response Automation, Log Analysis  
+- Familiar with **SIEM (Wazuh)** for log analysis, file integrity monitoring, and response automation  
+- Exposure to **EDR (LimaCharlie)** for endpoint detection rules and threat monitoring  
+- Experience using **SOAR (Tines)** for automation workflows and alerting  
+- Integrated **Threat Intelligence (VirusTotal API)** into security workflows  
+- Worked with both **Linux (Ubuntu)** and **Windows** environments in labs   
 
 ---
 
