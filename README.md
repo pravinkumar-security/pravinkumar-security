@@ -1,30 +1,16 @@
-# 👋 Hi, I'm Pravin Kumar 
+# 👋 Hi, I'm Pravin | Aspiring SOC Analyst 🛡️
 
-🔐 **Cybersecurity Enthusiast | SOC & SIEM Projects | Security Automation**  
-
-   Passionate about cybersecurity and building hands-on security projects focused on threat detection, SOC operations, and automation. Skilled in **Wazuh SIEM**, **File Integrity Monitoring**, **Incident Response**, and               **VirusTotal API Integrations**. I use my GitHub to document and share real-world security labs that showcase my skills in defensive security and threat mitigation.  
-
+🔹 Passionate about **Cybersecurity, Security Operation, defensive security, and Threat Detection**  
+🔹 Hands-on with **SIEM, EDR, and SOAR** tools through home lab projects  
+🔹 Actively building skills to become a **SOC Analyst / Security Engineer**
 ---
 
 ## 🛠 Skills & Tools  
 - **Cybersecurity:** SIEM, SOC Operations, Threat Detection, Incident Response  
 - **Tools & Platforms:** Wazuh SIEM, VirusTotal API, Ubuntu Server, Windows Server  
 - **Security Techniques:** File Integrity Monitoring, Active Response Automation, Log Analysis  
-- **Scripting:** Bash, Python (automation scripts)  
 
 ---
-
-## 📌 Featured Projects  
-
-### 1. <a href = "https://github.com/pravinkumar-security/SOAR-EDR-PROJECT"> SOAR-EDR PROJECT</a>
-
-
-
-
-### 2. <a href = "https://github.com/pravinkumar-security/SOC-Home-Lab-with-Wazuh-SIEM/tree/main"> SOC Home Lab with Wazuh SIEM </a>
-End-to-end SOC lab using Wazuh SIEM on Ubuntu server with Windows & Linux agents, File Integrity Monitoring, and VirusTotal API-based Active Response automation.  
-**Tech:** `Wazuh` `SIEM` `SOC` `Automation` `FIM`
-
 
 ## 📂 Featured Projects
 🚨 **[SOC Home Lab with Wazuh SIEM](https://github.com/pravinkumar-security/SOC-Home-Lab-with-Wazuh-SIEM)**  
@@ -44,6 +30,14 @@ End-to-end SOC lab using Wazuh SIEM on Ubuntu server with Windows & Linux agents
 
 ---
 
+## 🎯 Currently Working On
+- Expanding SOC home labs with new detection and automation use cases  
+- Exploring cloud security concepts and monitoring practices  
+- Learning different SOAR, SIEM, and EDR tools to broaden practical exposure  
+- Strengthening incident response and detection engineering skills  
+
+
+---
 ## 📫 Connect with Me  
 - **LinkedIn:** https://www.linkedin.com/in/pravin-kumar-6658ba248/  
 
