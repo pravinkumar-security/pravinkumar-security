@@ -26,6 +26,17 @@ End-to-end SOC lab using Wazuh SIEM on Ubuntu server with Windows & Linux agents
 **Tech:** `Wazuh` `SIEM` `SOC` `Automation` `FIM`
 
 
+## 📂 Featured Projects
+🚨 **[SOC Home Lab with Wazuh SIEM](https://github.com/pravinkumar-security/SOC-Home-Lab-with-Wazuh-SIEM)**  
+➡️ Deployed Wazuh SIEM with multi-agent support (Windows & Linux)  
+➡️ Configured **File Integrity Monitoring (FIM)** and **VirusTotal integration**  
+➡️ Enabled **Active Response automation** for malware removal  
+
+⚡ **[SOAR–EDR Project: LimaCharlie + Tines](https://github.com/pravinkumar-security/SOAR-EDR-Project)**  
+➡️ Created detection rule in LimaCharlie EDR for LaZagne execution  
+➡️ Integrated with Tines to **automate alerts** via Slack & Email  
+➡️ Built **playbook for user-driven machine isolation**  
+
 ---
 
 ## 🎓 Certifications  
