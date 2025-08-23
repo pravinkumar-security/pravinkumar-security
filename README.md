@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pravin | Aspiring SOC Analyst 🛡️
 
-🔹 Passionate about **Cybersecurity, Security Operation, defensive security, and Threat Detection**  
+🔹 Passionate about **Cybersecurity, Security Operation, and Threat Detection**  
 🔹 Hands-on with **SIEM, EDR, and SOAR** tools through home lab projects  
 🔹 Actively building skills to become a **SOC Analyst / Security Engineer**
 ---
